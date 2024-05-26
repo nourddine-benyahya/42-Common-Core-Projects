@@ -1,8 +1,7 @@
 # 42-Common-Core-Projects
-
 <table>
 <tr>
-<th>Common Core Projects</th>
+<th>Common Core Projects </th>
 </tr>
 <tr>
 
