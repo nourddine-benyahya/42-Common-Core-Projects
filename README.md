@@ -7,7 +7,7 @@
 
 <td>
 
-| :one: Project | :white_check_mark: Grade /100 | 🧑‍🤝‍🧑 teammate | 
+| :one: Project | :white_check_mark: Grade / 100 | 🧑‍🤝‍🧑 teammate | 
 |--|--|--|
 | [  Libft](https://github.com/nourddine-benyahya/libft)  | 125 | No |
 | [Born2BeRoot](https://github.com/nourddine-benyahya/Born2beRoot) | 125 | No |
