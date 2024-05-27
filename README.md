@@ -1,5 +1,5 @@
 # 42-Common-Core-Projects
-<table>
+<table align="center">
 <tr>
 <th>Common Core Projects </th>
 </tr>
