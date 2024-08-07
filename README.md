@@ -17,7 +17,7 @@
 | [So_Long](https://github.com/nourddine-benyahya/so_long) | 125 | No |
 | [Push_Swap](https://github.com/nourddine-benyahya/push_swap) | 125 | No |
 | [Philosophers](https://github.com/nourddine-benyahya/Philosophers) | 125 | No |
-| [Minishell](https://github.com/nourddine-benyahya/Minishell)| Ongoing | [anas mejdoub](https://github.com/anas-mejdoub) |
+| [Minishell](https://github.com/nourddine-benyahya/Minishell)| 125 | [anas mejdoub](https://github.com/anas-mejdoub) |
 | [NetPractice](https://github.com/nourddine-benyahya/NetPractice) | Ongoing | No |
 | [Cub3D](https://github.com/nourddine-benyahya/Cub3D) | Ongoing | Not yet |
 | [C++ Modules](https://github.com/nourddine-benyahya/C-Plus-Plus)  | Ongoing | No |
